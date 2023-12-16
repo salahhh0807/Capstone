@@ -1,6 +1,8 @@
-# Information Privacy Control with LLMs
+# Project name: GE-Information Privacy Controls for Corporate Use of Public LLMs
 
-This repository documents a collaborative Capstone project between the Data Science Institute at Columbia University and General Electric (GE). Our mission is to design an Information Privacy Control mechanism using Large Language Models (LLMs) to ensure data privacy in corporate settings. The Llama2 model serves as the cornerstone for our endeavors.
+- Columbia University: Shukai Wang, Shaonan Wang, Jiawen Song, Kaiyuan Liu, Longcong Xu
+
+## General Electric (GE) mentor: Liang Tang
 
 ## Project Overview
 
@@ -37,11 +39,6 @@ This repository documents a collaborative Capstone project between the Data Scie
    - Experiment with the ASRS dataset.
    - Use either ChatGPT or the refined Llama2 model to fill in masked information.
 
-## Contributors
-
-- Columbia University: Shukai Wang, Shaonan Wang, Jiawen Song, Kaiyuan Liu, Longcong Xu
-
-- General Electric (GE): Liang Tang
 
 ## Acknowledgments
 
