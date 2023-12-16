@@ -12,9 +12,7 @@ Emails <UNI> @ columbia.edu
 
 ## General Electric (GE) Mentor & Co-Mentors
 
-- Dr. Bhushan
-- Surajit Sen
-- Priyanka Pandey
+- Liang Tang
 
 ## Instructor/CA
 
@@ -40,14 +38,6 @@ Our comprehensive comparative analysis of the performance of Llama2 and GPT on b
 
 
 
-
-
-
-# Project name: GE-Information Privacy Controls for Corporate Use of Public LLMs
-
-- Columbia University: Shukai Wang, Shaonan Wang, Jiawen Song, Kaiyuan Liu, Longcong Xu
-
-## General Electric (GE) mentor: Liang Tang
 
 
 ## Feedback & Contributions
