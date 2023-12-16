@@ -1,3 +1,50 @@
+#  Project name: GE-Information Privacy Controls for Corporate Use of Public LLMs
+
+## Group Members
+
+- Jiawen Song (js6123)
+- Kaiyuan Liu (kl3447)
+- Longcong Xu (lx2305)
+- Shaonan Wang (sw3720)
+- Shukai Wang (sw3715)
+  
+Emails <UNI> @ columbia.edu
+
+## General Electric (GE) Mentor & Co-Mentors
+
+- Dr. Bhushan
+- Surajit Sen
+- Priyanka Pandey
+
+## Instructor/CA
+
+- Sining Chen (sc4549) (Project main)
+- Jiaxuan Li (jl6300) Head CA, assisting SC
+- Vivian Zhang (Project)
+- Peter Chao (jc5859) assisting VZ
+- Adam Kelleher (Project)
+- Rufina George (rg3466) assisting AK, ST
+- Savannah Thais (AI Ethics)
+
+## Project Description
+
+This Capstone project represents a collaborative effort between the Data Science Institute at Columbia University and General Electric (GE). The central aim of this project is to develop an Information Privacy Control mechanism in response to the concerns of exposing private data while using public online Large Language Models (LLM) in corporate settings. This initiative addresses this critical problem of how to maintain data privacy and security while applying public LLM in compliance with corporate policies by anonymizing private information from input data. Given the existing constraints of conventional privacy techniques and the distinctive risks of using public LLM within corporations, we were motivated to use and finetune GPT and Llama2 models to aid corporations to de-identify before applying LLMs for the protection and assurance of data privacy.
+
+In this project, the primary focus of our team centers on the utilization of the Llama2 and GPT models within the framework of the 2014 i2b2/UTHealth de-identification challenge dataset. Our aim is to develop suitable prompts that effectively remove protected health information (PHI), adhering to the standards set by the Health Insurance Portability and Accountability Act (HIPAA). The subsequent phases involve the refinement and optimization of GPT to enhance its efficacy. Furthermore, we have engaged in transfer learning, applying the Llama2 model to the Aviation Safety Reporting System (ASRS) dataset after manually restoring the masked information, which encompasses aviation safety narratives. 
+
+Our comprehensive comparative analysis of the performance of Llama2 and GPT on both datasets has yielded significant insights, with the fine-tuned ChatGPT-3.5 emerging as the superior performer. This finding underscores the impactful role of both the prompts and the model itself in determining performance outcomes. These elements warrant further exploration in future research, highlighting the meaningful contributions of our work to ongoing advancements in the field.
+
+## Directory Tree
+
+
+
+
+
+
+
+
+
+
 # Project name: GE-Information Privacy Controls for Corporate Use of Public LLMs
 
 - Columbia University: Shukai Wang, Shaonan Wang, Jiawen Song, Kaiyuan Liu, Longcong Xu
