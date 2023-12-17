@@ -33,13 +33,22 @@ The evaluation results indicate that GPT-4 with explicit prompts outperforms imp
 Our comprehensive comparative analysis of the performance of Llama2 and GPT on both datasets has yielded significant insights, with the fine-tuned ChatGPT-3.5 emerging as the superior performer. This finding underscores the impactful role of both the prompts and the model itself in determining performance outcomes. These elements warrant further exploration in future research, highlighting the meaningful contributions of our work to ongoing advancements in the field.
 
 ## Directory Tree
-
-
-
-
-
-
-
+```shell
+├── First Progress Result
+│   ├── GPT4_result.v1.json
+│   └── Llama_result.v1.json
+├── Notebooks
+│   ├── De-Identification by GPT-4.ipynb
+│   ├── De_ID_RNN_LSTM.ipynb
+│   ├── De_Identification_by_Llama2.ipynb
+│   ├── Explorary_Data_Analysis.ipynb
+│   ├── GPT_3_5_finetune.ipynb
+│   ├── Llama2 13b-chat.ipynb
+│   ├── Llama2_70bchat_Transfer_Learning_ASRS.ipynb
+│   ├── Llama2_70bchat_i2b2.ipynb
+│   └── Llama2_quantized_13bchat_i2b2.ipynb
+└── README.md
+```
 ## Feedback & Contributions
 
 We welcome feedback, bug reports, and pull requests. For major changes, please open an issue first to discuss what you would like to change.
