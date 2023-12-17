@@ -17,12 +17,12 @@ Emails  &lt;UNI&gt; @ columbia.edu
 ## Instructor/CA
 
 - Sining Chen (sc4549) (Project main)
-- Jiaxuan Li (jl6300) Head CA, assisting SC
 - Vivian Zhang (Project)
-- Peter Chao (jc5859) assisting VZ
 - Adam Kelleher (Project)
-- Rufina George (rg3466) assisting AK, ST
 - Savannah Thais (AI Ethics)
+- Jiaxuan Li (jl6300) Head CA, assisting SC
+- Peter Chao (jc5859) assisting VZ
+- Rufina George (rg3466) assisting AK, ST
 
 ## Project Description
 
