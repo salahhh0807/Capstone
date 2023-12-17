@@ -47,7 +47,11 @@ Our comprehensive comparative analysis of the performance of Llama2 and GPT on b
 │   ├── Llama2_70bchat_Transfer_Learning_ASRS.ipynb
 │   ├── Llama2_70bchat_i2b2.ipynb
 │   └── Llama2_quantized_13bchat_i2b2.ipynb
-└── README.md
+├── README.md
+└── Report
+    ├── 1st_progress_report.pdf
+    ├── Final_report.pdf
+    └── capstone_poster.pdf
 ```
 ## Feedback & Contributions
 
