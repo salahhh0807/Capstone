@@ -8,7 +8,7 @@
 - Shaonan Wang (sw3720)
 - Shukai Wang (sw3715)
   
-Emails <UNI> @ columbia.edu
+Emails  &lt;UNI&gt; @ columbia.edu
 
 ## General Electric (GE) Mentor & Co-Mentors
 
